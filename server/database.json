@@ -1,0 +1,6 @@
+{
+  "countries": [
+    { "name": "Hungary", "population": 9000000 },
+    { "name": "Austria", "population": 8000000 }
+  ]
+}
